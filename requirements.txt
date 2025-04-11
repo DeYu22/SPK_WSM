@@ -1,4 +1,5 @@
 streamlit
 plotly
-pandas  # dan library lain yang Anda gunakan
+pandas
 numpy
+matplotlib
