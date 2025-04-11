@@ -1,0 +1,4 @@
+streamlit
+plotly
+pandas  # dan library lain yang Anda gunakan
+numpy
